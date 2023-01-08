@@ -40,7 +40,9 @@ body{
     margin: 5px;
     cursor: pointer;
     font-size: 90px;
-    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     font-weight: 700;
     color: #50577a;
     border-radius: 12px;
